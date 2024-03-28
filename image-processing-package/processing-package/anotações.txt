@@ -1,0 +1,8 @@
+"""Usado para passar as dependências que devem ser instaladas com o seu pacote. 
+Opcionalmente, podem ser especificadas as versões."""
+# Para instalar basta rodar o comando pip install -r requirements.txt na pasta
+# Comando de instalação referentes criação da distribuição
+# python -m pip install --upgrade pip
+# python -m pip install --user twine
+# python -m pip install --user setuptools
+# python setup.py sdist bdist_wheel
