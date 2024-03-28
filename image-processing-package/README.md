@@ -24,6 +24,3 @@ Módulo "Utils":
 - Plotar histograma;
 
 
-### Resultado do processamento:
-
-<p align="left"><img src="./ex_img.jpg" width="800"></p>
